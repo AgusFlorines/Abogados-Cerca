@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+
+    color: #151E2F;
+}
+
+#logo {
+
+    width: 70px;
+    height: 70px;
+}
+
+nav {
+
+background-color: #151E2F;
+
+}
+
+.cartas{
+
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+
+    width: 150px;
+    height: 500px;
+    border: none;
+}
+
+.secciones{
+
+    margin-bottom: 75px;
+}
+
+.btn{
+
+    background-color: #151E2F;
+    border-color: #151E2F;
+   
+}
+
+.btn:hover{
+
+    background-color: #c26802;
+    border-color: white;
+
+}
+
+footer{
+
+    background-color: #151E2F;
+    height: 100px;
+}
