@@ -21,7 +21,7 @@ background-color: #151E2F;
 
 }
 
-.cartas{
+#segunda {
 
     display: flex;
     position: relative;
@@ -29,11 +29,26 @@ background-color: #151E2F;
     align-items: center;
 }
 
+#img1{
+
+    margin: 20px;
+}
+
+.cartas{
+
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+   
+}
+
 .card{
 
     width: 150px;
     height: 500px;
     border: none;
+    margin: 20px;
 }
 
 .secciones{
